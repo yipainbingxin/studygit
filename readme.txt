@@ -19,8 +19,6 @@ Git
 \f2 \'bf\'aa\'ca\'bc\'d1\'a7\'cf\'b0\'c1\'cb\'c5\'b6
 \f0 distributed under the GPL.\
 Git has a mutable index called stage.\
-\pard\pardeftab720\partightenfactor0
-\cf2 \cb3 Git tracks changes.\
-\pard\pardeftab720\partightenfactor0
-\cf2 \cb3 \
+Git tracks \cf2 \cb3 changes of files\cf2 \cb3 .\
+\
 }
