@@ -21,7 +21,8 @@ Git
 Git has a mutable index called stage.\
 Git tracks changes of files.\
 
-\f2 \'ce\'d2\'ca\'c7\'b5\'da\'d2\'bb\'b4\'ce\'d0\'de\'b8\'c4\'b5\'c4\'c5\'b6\'a3\'a1\'a3\'a1\'a3\'a1\'a3\'a1
+\f2 \'ce\'d2\'ca\'c7\'b5\'da\'d2\'bb\'b4\'ce\'d0\'de\'b8\'c4\'b5\'c4\'c5\'b6\'a3\'a1\'a3\'a1\'a3\'a1\'a3\'a1\
+\'ce\'d2\'ca\'c7\'b5\'da\'b6\'fe\'b4\'ce\'d0\'de\'b8\'c4\'b5\'c4\'c5\'b6\'c5\'b6\'a1\'aa\'a1\'aa\'a3\'a1\'a3\'a1
 \f0 \
 \
 }
