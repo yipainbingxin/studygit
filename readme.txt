@@ -17,4 +17,7 @@ Git
 \f1\b \cf4 is
 \f0\b0 \cf2  free software.
 \f2 \'bf\'aa\'ca\'bc\'d1\'a7\'cf\'b0\'c1\'cb\'c5\'b6
-\f0 \cf2 \cb3 distributed under the GPL.}
+\f0 distributed under the GPL.\
+\pard\pardeftab720\partightenfactor0
+\cf2 \cb3 Git has a mutable index called stage.\
+}
